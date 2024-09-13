@@ -16,7 +16,9 @@
 
 Instructor: Maria Poptsova, PhD \
 Teaching assistants: Kirill Alekseev, Artyom Burtsev \
-Submit your homework here: Will appear here soon \
+Submit your homework here: [Форма для сдачи домашних заданий](https://forms.gle/PyGLnMkE91rBPwLn8) \
+If something wrong with the google form above, send your homework to this email: adbm.ml.2024@gmail.com 
+
 Feedback form: [Форма для отзывов и пожеланий](https://forms.gle/pHrr9icXxKopHh6S6)
 
 
