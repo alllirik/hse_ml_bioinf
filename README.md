@@ -34,7 +34,7 @@ The final grade is formulated as follows:
 Course_Grade $= 0.6 \times HW_{w.a.} + 0.4 \times Exam$,
 
 where $HW_{w.a.}$ is defined as weighted average of all homeworks, i.e.:\
-**- formula for homeworks will appear here ASAP**
+$HW_{w.a} = 0.15 * (\frac{HW_1 + HW_2}{2}) + 0.15 * HW_3 + 0.15 * (\frac{HW_4 + HW_5}{2})  + 0.15 * HW_6$
 
 Grade rounding is performed according to standard rules: 
 - $3.5=4$ 
