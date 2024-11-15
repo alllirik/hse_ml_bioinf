@@ -3,6 +3,7 @@
 ### Contents
 
 * Seminar 6 Notebook
+* Seminar 6 Slides
 
 ---
 
