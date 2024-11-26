@@ -22,7 +22,7 @@
 * Hard deadline: 28.11.24, 23.59
 * You lose 10% off your grade daily after the soft deadline
 
-* # Homework 5: Download and preprocess ENCODE data
+* # Homework 5: Classification of ENCODE data
 
 <a target="_blank" href="https://colab.research.google.com/github/alllirik/hse_ml_bioinf/blob/main/homeworks/HW_5_(classification).ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
