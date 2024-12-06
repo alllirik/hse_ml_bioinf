@@ -22,7 +22,7 @@
 * Hard deadline: 28.11.24, 23.59
 * You lose 10% off your grade daily after the soft deadline
 
-* # Homework 5: Classification of ENCODE data
+# Homework 5: Classification of ENCODE data
 
 <a target="_blank" href="https://colab.research.google.com/github/alllirik/hse_ml_bioinf/blob/main/homeworks/HW_5_(Classification).ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -34,7 +34,7 @@
 * Hard deadline: 16.12.24, 23.59
 * You lose 10% off your grade daily after the soft deadline
 
-* # Homework 6: Clustering and dimensionality reduction on scRNA-seq 
+# Homework 6: Clustering and dimensionality reduction on scRNA-seq 
 
 <a target="_blank" href="https://colab.research.google.com/github/alllirik/hse_ml_bioinf/blob/main/homeworks/HW_6_(clustering_&_reduction).ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
