@@ -43,4 +43,4 @@
 * Data: Choose yourself, follow instructions in notebook
 * Grading: the grade is given for the proportion of correctly completed tasks, 10 pts. max
 * No soft deadline given
-* Hard deadline: 16.12.24, 23.59
+* Hard deadline: 18.12.24, 23.59
