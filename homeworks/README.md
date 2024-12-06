@@ -30,7 +30,17 @@
 
 * Data: From HW-4
 * Grading: the grade is given for the proportion of correctly completed tasks, 10 pts. max
-* Soft deadline: 04.12.24, 23.59
-* Hard deadline: 11.12.24, 23.59
+* Soft deadline: 09.12.24, 23.59
+* Hard deadline: 16.12.24, 23.59
 * You lose 10% off your grade daily after the soft deadline
 
+* # Homework 6: Clustering and dimensionality reduction on scRNA-seq 
+
+<a target="_blank" href="https://colab.research.google.com/github/alllirik/hse_ml_bioinf/blob/main/homeworks/HW_6_(clustering_&_reduction).ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+* Data: Choose yourself, follow instructions in notebook
+* Grading: the grade is given for the proportion of correctly completed tasks, 10 pts. max
+* No soft deadline given
+* Hard deadline: 16.12.24, 23.59
